@@ -1,0 +1,9 @@
+admin, Register Users with taskManager.py, Use taskManager.py to add the usernames and passwords for all team members that will be using this program., 10 Oct 2019, 25 Oct 2019, No
+admin, Assign initial tasks, Use taskManager.py to assign each team member with appropriate tasks, 10 Oct 2019, 25 Oct 2019, No
+dee, test, testing code, 01/01/2024, 25/01/23, No
+admin, testing, checking errors, 10/10/2022, 25/01/23, No
+admin, testing part 2, more code tests, 10/01/2023, 25/01/23, No
+sham, sham is going shopping, buy things, 01/01/204, 26/01/23, No
+sham, tests on tests, testing the code still runs, 01/01/2024, 26/01/23, No
+sham123, sham123, testing 123, 01/01/2024, 26/01/23, No
+ghana, ghana is going to be great, make ghana great again, 10/12/2030, 26/01/23, No
