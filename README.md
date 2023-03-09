@@ -1,6 +1,5 @@
-<img width="982" alt="Screenshot 2023-03-09 at 22 45 40" src="https://user-images.githubusercontent.com/119043038/224177707-87ef8ae2-23f8-4dfb-a08a-29c7025712fa.png">
-
 Concept behind this task:
+
 As a programmer, I have been approached by a small financial company to create a program that will enable the users to access two different financial calculators. The first calculator is an investment calculator, which will help the users to calculate the amount of interest they will earn on their investment. The second calculator is a home loan repayment calculator, which will help the users to calculate the amount of money they will have to repay on a home loan.
 
 Code explaination:
@@ -13,3 +12,6 @@ If the user enters "bond", the code prompts the user to enter the present house 
 If the user enters something other than "investment" or "bond", the code prints out an error message.
 Finally, the program stops running.
 Overall, this code is a simple calculator that can help users calculate either the amount of interest earned on an investment or the amount of money required to repay a home loan.
+
+
+<img width="982" alt="Screenshot 2023-03-09 at 22 45 40" src="https://user-images.githubusercontent.com/119043038/224177707-87ef8ae2-23f8-4dfb-a08a-29c7025712fa.png">
