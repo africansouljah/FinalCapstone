@@ -1,8 +1,8 @@
-Concept behind this task:
+# Concept behind this task:
 
 As a programmer, I have been approached by a small financial company to create a program that will enable the users to access two different financial calculators. The first calculator is an investment calculator, which will help the users to calculate the amount of interest they will earn on their investment. The second calculator is a home loan repayment calculator, which will help the users to calculate the amount of money they will have to repay on a home loan.
 
-Code explaination:
+# Code explaination:
 
 The first line imports the math library so that we can use the math.pow() function later on in the code.
 The next few lines print out the menu options to the user. There are two options: "Investment" and "Bond".
