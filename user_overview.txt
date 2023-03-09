@@ -1,0 +1,38 @@
+Total number of users: 5
+Total number of tasks: 9
+
+Username: admin
+Total tasks assigned: 4
+Percentage of total tasks: 44.44%
+Percentage of tasks completed: 0.00%
+Percentage of tasks pending: 100.00%
+Percentage of tasks overdue: 0.00%
+
+Username: sham
+Total tasks assigned: 2
+Percentage of total tasks: 22.22%
+Percentage of tasks completed: 0.00%
+Percentage of tasks pending: 0.00%
+Percentage of tasks overdue: 100.00%
+
+Username: sham123
+Total tasks assigned: 1
+Percentage of total tasks: 11.11%
+Percentage of tasks completed: 0.00%
+Percentage of tasks pending: 0.00%
+Percentage of tasks overdue: 100.00%
+
+Username: ghana
+Total tasks assigned: 1
+Percentage of total tasks: 11.11%
+Percentage of tasks completed: 0.00%
+Percentage of tasks pending: 100.00%
+Percentage of tasks overdue: 0.00%
+
+Username: test
+Total tasks assigned: 1
+Percentage of total tasks: 11.11%
+Percentage of tasks completed: 0.00%
+Percentage of tasks pending: 0.00%
+Percentage of tasks overdue: 100.00%
+
