@@ -26,3 +26,5 @@ When the admin selects the "display statistics" option, the script reads the tas
 
 Finally, when the user selects the "exit" option, the program ends.
 
+<img width="1432" alt="Screenshot 2023-03-09 at 23 30 58" src="https://user-images.githubusercontent.com/119043038/224184243-a7c82169-a765-475b-8329-3983bf6613a1.png">
+<img width="1439" alt="Screenshot 2023-03-09 at 23 31 31" src="https://user-images.githubusercontent.com/119043038/224184272-bdc83fea-7d0d-470b-add6-48f331461e9f.png">
