@@ -13,5 +13,4 @@ If the user enters something other than "investment" or "bond", the code prints 
 Finally, the program stops running.
 Overall, this code is a simple calculator that can help users calculate either the amount of interest earned on an investment or the amount of money required to repay a home loan.
 
-
-<img width="982" alt="Screenshot 2023-03-09 at 22 45 40" src="https://user-images.githubusercontent.com/119043038/224177707-87ef8ae2-23f8-4dfb-a08a-29c7025712fa.png">
+<img width="967" alt="Screenshot 2023-03-09 at 22 53 51" src="https://user-images.githubusercontent.com/119043038/224178843-df94c2c0-ff92-4eab-a7c4-d9f409b4e533.png">
