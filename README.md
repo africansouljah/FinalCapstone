@@ -22,3 +22,6 @@ The search_shoe() function prompts the user to enter a product code and searches
 
 The value_per_item() function computes the total value of each Shoe object in the shoe_list and displays the results in a table.
 
+<img width="722" alt="Screenshot 2023-03-10 at 14 45 24" src="https://user-images.githubusercontent.com/119043038/224345889-950a033b-8907-4389-a5d3-dd9eadfadbdf.png">
+<img width="607" alt="Screenshot 2023-03-10 at 14 45 44" src="https://user-images.githubusercontent.com/119043038/224345912-8d191c4a-962d-4444-a4bb-b12679fad3d5.png">
+
