@@ -31,6 +31,11 @@ Set up the configuration file by creating a .env file and providing the necessar
 Start the development server by running the command npm run dev.
 Open your web browser and go to http://localhost:3000 to view the application.
 
+# Here are some examples of how this code could be used in real life:
 
+If you are considering investing money, you can use the investment calculator to calculate the total amount of interest you will earn based on different interest rates and investment durations. This can help you make informed decisions about where to invest your money.
+If you are planning to buy a house and need to take out a home loan, you can use the bond calculator to calculate the monthly repayment amount based on different loan amounts, interest rates, and repayment periods. This can help you budget for your monthly repayments and determine how much you can afford to borrow.
+If you work in finance, you can use this code to build a more complex financial calculator that includes additional calculations such as tax calculations, inflation calculations, and more.
+Overall, this code can be a useful tool for anyone who needs to perform financial calculations and wants a quick and easy way to do so.
 
 <img width="967" alt="Screenshot 2023-03-09 at 22 53 51" src="https://user-images.githubusercontent.com/119043038/224178843-df94c2c0-ff92-4eab-a7c4-d9f409b4e533.png">
