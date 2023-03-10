@@ -27,6 +27,14 @@ Open a terminal or command prompt window and navigate to the project's directory
 Install any required dependencies by running the appropriate command. This will depend on the project and the programming language used.
 Run the project by executing the appropriate command or running the main file.
 
+# After downloading the project from GitHub, you can follow these steps to use it:
+
+Open the command line or terminal and navigate to the project's directory.
+Install any required dependencies by running the command npm install.
+Set up the configuration file by creating a .env file and providing the necessary values for the environment variables. You can copy the .env.example file and update the values.
+Start the development server by running the command npm run dev.
+Open your web browser and go to http://localhost:3000 to view the application.
+
 <img width="1188" alt="Screenshot 2023-03-10 at 00 09 52" src="https://user-images.githubusercontent.com/119043038/224189797-e15eb40a-c1d6-44e8-908f-c8a0405441c3.png">
 <img width="886" alt="Screenshot 2023-03-10 at 00 10 22" src="https://user-images.githubusercontent.com/119043038/224189809-e3b5fc19-ec85-4819-9cf8-703847aa78e1.png">
 <img width="718" alt="Screenshot 2023-03-10 at 00 10 51" src="https://user-images.githubusercontent.com/119043038/224189812-5798f710-91e4-437c-9907-6e69aa28608b.png">
