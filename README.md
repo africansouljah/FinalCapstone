@@ -22,6 +22,16 @@ The search_shoe() function prompts the user to enter a product code and searches
 
 The value_per_item() function computes the total value of each Shoe object in the shoe_list and displays the results in a table.
 
+
+# To install project, follow these steps:
+
+First, go to the project's GitHub page.
+Click on the "Code" button and then click on "Download ZIP". This will download the project as a ZIP file.
+Extract the ZIP file to a location on your computer where you want to store the project.
+Open a terminal or command prompt window and navigate to the project's directory.
+Install any required dependencies by running the appropriate command. This will depend on the project and the programming language used.
+Run the project by executing the appropriate command or running the main file.
+
 <img width="722" alt="Screenshot 2023-03-10 at 14 45 24" src="https://user-images.githubusercontent.com/119043038/224345889-950a033b-8907-4389-a5d3-dd9eadfadbdf.png">
 <img width="607" alt="Screenshot 2023-03-10 at 14 45 44" src="https://user-images.githubusercontent.com/119043038/224345912-8d191c4a-962d-4444-a4bb-b12679fad3d5.png">
 
