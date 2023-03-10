@@ -35,6 +35,18 @@ Set up the configuration file by creating a .env file and providing the necessar
 Start the development server by running the command npm run dev.
 Open your web browser and go to http://localhost:3000 to view the application.
 
+# Example of usage in real life:
+
+This code can be used in real life to create a simple task management system for individuals or small teams. The system allows users to register, assign tasks to specific users, and view tasks.
+
+To use this code in real life, you would need to:
+
+Save the code to a file with a .py extension.
+Install Python on your computer.
+Open a terminal or command prompt and navigate to the directory where you saved the file.
+Run the code by typing "python filename.py" in the terminal, where "filename" is the name of the file you saved the code in.
+Follow the prompts to register users, assign tasks, and view tasks.
+
 <img width="1188" alt="Screenshot 2023-03-10 at 00 09 52" src="https://user-images.githubusercontent.com/119043038/224189797-e15eb40a-c1d6-44e8-908f-c8a0405441c3.png">
 <img width="886" alt="Screenshot 2023-03-10 at 00 10 22" src="https://user-images.githubusercontent.com/119043038/224189809-e3b5fc19-ec85-4819-9cf8-703847aa78e1.png">
 <img width="718" alt="Screenshot 2023-03-10 at 00 10 51" src="https://user-images.githubusercontent.com/119043038/224189812-5798f710-91e4-437c-9907-6e69aa28608b.png">
