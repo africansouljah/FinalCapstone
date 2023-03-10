@@ -1,1 +1,24 @@
 # Concept of the task:
+
+This project is a simple inventory management system for shoes. It allows the user to add new shoes to the inventory, view all the shoes in the inventory, search for a shoe by product code, re-stock shoes, and compute the total value of each shoe in the inventory.
+
+The Shoe class has six attributes: country, code, product, cost, quantity, and sale_price. The class also has methods to get the cost and quantity attributes and a method to return a formatted string that includes all the attributes.
+
+# Code Exaplation:
+
+The given code defines a class named "Shoe" that has six attributes: country, code, product, cost, quantity, and sale_price. The class has several methods that allow adding new Shoe objects, displaying Shoe objects, restocking, searching for a specific Shoe object, and computing the value per item of each Shoe object.
+
+The __init__ method initializes the class attributes with the provided values. The sale_price parameter is optional and has a default value of 0. Two other methods, get_cost() and get_quantity(), return the cost and quantity attributes, respectively. The __str__ method returns a formatted string that includes the product, country, code, quantity, cost, and sale_price attributes.
+
+The code creates an empty list called shoe_list outside the class definition. The read_shoes_data function reads data from a file called "inventory.txt" and creates a Shoe object for each line of data in the file. The Shoe objects are appended to the shoe_list.
+
+The capture_shoes() function prompts the user to enter information for a new Shoe object and creates one based on the input. The Shoe object is then appended to the shoe_list.
+
+The view_all() function prints a table of all Shoe objects in the shoe_list. If the list is empty, it prints a message indicating that there are no shoes in the inventory.
+
+The re_stock() function finds the Shoe object with the lowest quantity in the shoe_list, prompts the user to enter the number of items to add to the stock, and updates the quantity attribute of the Shoe object. The function also updates the corresponding line in the "inventory.txt" file with the new quantity value.
+
+The search_shoe() function prompts the user to enter a product code and searches the shoe_list for a Shoe object with that code. If found, the function prints the Shoe object; otherwise, it prints a message indicating that no shoe was found.
+
+The value_per_item() function computes the total value of each Shoe object in the shoe_list and displays the results in a table.
+
