@@ -26,5 +26,15 @@ When the admin selects the "display statistics" option, the script reads the tas
 
 Finally, when the user selects the "exit" option, the program ends.
 
+
+# To install project, follow these steps:
+
+First, go to the project's GitHub page.
+Click on the "Code" button and then click on "Download ZIP". This will download the project as a ZIP file.
+Extract the ZIP file to a location on your computer where you want to store the project.
+Open a terminal or command prompt window and navigate to the project's directory.
+Install any required dependencies by running the appropriate command. This will depend on the project and the programming language used.
+Run the project by executing the appropriate command or running the main file.
+
 <img width="1432" alt="Screenshot 2023-03-09 at 23 30 58" src="https://user-images.githubusercontent.com/119043038/224184243-a7c82169-a765-475b-8329-3983bf6613a1.png">
 <img width="1439" alt="Screenshot 2023-03-09 at 23 31 31" src="https://user-images.githubusercontent.com/119043038/224184272-bdc83fea-7d0d-470b-add6-48f331461e9f.png">
