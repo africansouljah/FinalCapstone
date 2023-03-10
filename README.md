@@ -18,6 +18,15 @@ The view_tasks function reads the contents of the tasks.txt file and prints out 
 
 The view_my_tasks function reads the contents of the tasks.txt file and displays the tasks assigned to the user who is currently logged in. The function then prompts the user to select a task to view in more detail. If the task has not been completed, the user can choose to mark the task as complete or edit the task.
 
+# To install project, follow these steps:
+
+First, go to the project's GitHub page.
+Click on the "Code" button and then click on "Download ZIP". This will download the project as a ZIP file.
+Extract the ZIP file to a location on your computer where you want to store the project.
+Open a terminal or command prompt window and navigate to the project's directory.
+Install any required dependencies by running the appropriate command. This will depend on the project and the programming language used.
+Run the project by executing the appropriate command or running the main file.
+
 <img width="1188" alt="Screenshot 2023-03-10 at 00 09 52" src="https://user-images.githubusercontent.com/119043038/224189797-e15eb40a-c1d6-44e8-908f-c8a0405441c3.png">
 <img width="886" alt="Screenshot 2023-03-10 at 00 10 22" src="https://user-images.githubusercontent.com/119043038/224189809-e3b5fc19-ec85-4819-9cf8-703847aa78e1.png">
 <img width="718" alt="Screenshot 2023-03-10 at 00 10 51" src="https://user-images.githubusercontent.com/119043038/224189812-5798f710-91e4-437c-9907-6e69aa28608b.png">
