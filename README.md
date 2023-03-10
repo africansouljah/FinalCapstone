@@ -38,4 +38,5 @@ A shoe retailer could use this code to manage their inventory system. They could
 A shoe manufacturer could use this code to keep track of their production and inventory. They could use the read_shoes_data() function to import data from a file, use the capture_shoes() function to add new shoes to the system, use the view_all() function to see all the shoes in stock, and use the value_per_item() function to calculate the total value of their inventory.
 
 A shoe store owner could use this code to manage their inventory and pricing. They could use the view_all() function to see all the shoes in stock and their prices, use the re_stock() function to add more stock to shoes that are running low, and use the search_shoe() function to find a shoe based on its product code. They could also adjust the sale_price attribute of a Shoe object to put a shoe on sale and attract more customers.
+
 <img width="967" alt="Screenshot 2023-03-09 at 22 53 51" src="https://user-images.githubusercontent.com/119043038/224178843-df94c2c0-ff92-4eab-a7c4-d9f409b4e533.png">
