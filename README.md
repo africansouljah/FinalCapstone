@@ -13,4 +13,14 @@ If the user enters something other than "investment" or "bond", the code prints 
 Finally, the program stops running.
 Overall, this code is a simple calculator that can help users calculate either the amount of interest earned on an investment or the amount of money required to repay a home loan.
 
+
+# To install project, follow these steps:
+
+First, go to the project's GitHub page.
+Click on the "Code" button and then click on "Download ZIP". This will download the project as a ZIP file.
+Extract the ZIP file to a location on your computer where you want to store the project.
+Open a terminal or command prompt window and navigate to the project's directory.
+Install any required dependencies by running the appropriate command. This will depend on the project and the programming language used.
+Run the project by executing the appropriate command or running the main file.
+
 <img width="967" alt="Screenshot 2023-03-09 at 22 53 51" src="https://user-images.githubusercontent.com/119043038/224178843-df94c2c0-ff92-4eab-a7c4-d9f409b4e533.png">
