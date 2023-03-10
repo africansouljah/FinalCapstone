@@ -40,6 +40,15 @@ Set up the configuration file by creating a .env file and providing the necessar
 Start the development server by running the command npm run dev.
 Open your web browser and go to http://localhost:3000 to view the application.
 
+# Here are some ways this code could be used in real life:
+
+A shoe retailer could use this code to manage their inventory system. They could use the capture_shoes() function to add new shoes to the system, use the view_all() function to see all the shoes in stock, use the re_stock() function to add more stock to shoes that are running low, and use the search_shoe() function to find a shoe based on its product code.
+
+A shoe manufacturer could use this code to keep track of their production and inventory. They could use the read_shoes_data() function to import data from a file, use the capture_shoes() function to add new shoes to the system, use the view_all() function to see all the shoes in stock, and use the value_per_item() function to calculate the total value of their inventory.
+
+A shoe store owner could use this code to manage their inventory and pricing. They could use the view_all() function to see all the shoes in stock and their prices, use the re_stock() function to add more stock to shoes that are running low, and use the search_shoe() function to find a shoe based on its product code. They could also adjust the sale_price attribute of a Shoe object to put a shoe on sale and attract more customers.
+
 <img width="722" alt="Screenshot 2023-03-10 at 14 45 24" src="https://user-images.githubusercontent.com/119043038/224345889-950a033b-8907-4389-a5d3-dd9eadfadbdf.png">
+
 <img width="607" alt="Screenshot 2023-03-10 at 14 45 44" src="https://user-images.githubusercontent.com/119043038/224345912-8d191c4a-962d-4444-a4bb-b12679fad3d5.png">
 
